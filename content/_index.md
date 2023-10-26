@@ -19,7 +19,7 @@ Links:
         link: https://forms.gle/1vwztX83yZFRewZQA
 Event:
     Claim: '1. Weiterbildungsveranstaltung des SOVBB:'
-    Title: Fehlende Krankheitseinsicht – Zusammenarbeit?'
+    Title: Fehlende Krankheitseinsicht – Zusammenarbeit?
     Description: |
       Professioneller Umgang und pragmatische Ansätze von
       Beistandspersonen mit Herausforderungen während der Begleitung
