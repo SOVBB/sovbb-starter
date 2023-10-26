@@ -17,6 +17,23 @@ Links:
     membership:
         text: Mitglied werden
         link: https://forms.gle/1vwztX83yZFRewZQA
+Event:
+    Claim: '1. Weiterbildungsveranstaltung des SOVBB:'
+    Title: Fehlende Krankheitseinsicht – Zusammenarbeit?'
+    Description: |
+      Professioneller Umgang und pragmatische Ansätze von
+      Beistandspersonen mit Herausforderungen während der Begleitung
+      von Menschen mit Persönlichkeitsstörungen und anderen
+      psychischen Erkrankungen: **Methoden, Ethik und rechtliche Aspekte**
+      
+      Dr. med. Benjamin Dubno, ärztlicher Direktor Integrierte Psychiatrie
+      Winterthur – Zürcher Unterland
+    Datum: Di, 21. November 2023
+    Zeit: 13.30–17.00 Uhr mit anschliessendem Apéro
+    Ort: Jugendherberge Solothurn<br>Landhausquai 23<br>4500 Solothurn
+    Anmeldung: unter <a href="mailto:info@sovbb.ch">info@sovbb.ch</a> bis am&nbsp;5.&nbsp;November 2023
+    Kosten: CHF 120.00 für SOVBB-Mitglieder<br>CHF 150.00 für Nichtmitglieder
+
 ---
 Der Schweizerische Verband der Berufsbeistandspersonen (SVBB) ist verknüpft mit acht
 selbstständig organisierten Regionalgruppen. Diese bieten eigenständige Aktivitäten

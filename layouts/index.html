@@ -1,0 +1,123 @@
+{{ define "main" }}
+<main role="main">
+    <div class="uk-container-expand sovbb-hero uk-position-relative">
+        <div class="uk-container uk-container-xsmall uk-container-large@l">
+            <img src='{{ (resources.Get "img/sovbb_hero.svg").RelPermalink }}' alt="{{ $.Site.Title }}" />
+            <a target="membership_form" href="{{ .Params.Links.membership.link}}" class="sovbb-button-member">
+                <div>
+                    {{ .Params.Links.membership.text }}</div>
+            </a>
+        </div>
+    </div>
+    {{ if .Params.Event }}
+    {{ with .Params.Event }}
+    <style>
+        .sovbb-claim {
+            margin-top: 3ex;
+            font-size: 1.5rem;
+            margin-bottom: 0;
+        }
+        .sovbb-title {
+            margin-top: 0.5ex;
+            font-size: 1.5rem;
+            color: rgb(227, 6, 19);
+        }
+        .sovbb-borders {
+            border-top: 1px solid black;
+            margin: 2ex 0;
+        }
+        .sovbb-event-table td {
+            vertical-align: top;
+        }
+        .sovbb-event-table td:first-child {
+            padding-right: 1ex;
+        }
+        .sovbb-event {
+            font-size: 1rem;
+        }
+    </style>
+    <div class="sovbb-event uk-container uk-container-small">
+        <div class="sovbb-claim">{{ .Claim }}</div>
+        <h2 class="sovbb-title">{{ .Title }}</h2>
+        <div class="sovbb-borders"></div>
+        <div uk-grid>
+            <div class="uk-width-1-2@s">{{ .Description | markdownify }}</div>
+            <div class="uk-width-1-2@s">
+                <table class="sovbb-event-table">
+                    <tbody>
+                        <tr>
+                            <td>Datum:</td>
+                            <td>{{ .Datum }}</td>
+                        </tr>
+                        <tr>
+                            <td>Zeit:</td>
+                            <td>{{ .Zeit }}</td>
+                        </tr>
+                        <tr>
+                            <td>Ort:</td>
+                            <td>{{ .Ort | safeHTML  }}</td>
+                        </tr>
+                        <tr><td><br></td></tr>
+                        <tr>
+                            <td><b>Anmeldung:</b></td>
+                            <td>{{ .Anmeldung | safeHTML }}</td>
+                        </tr>
+                        <tr>
+                            <td><b>Kosten:</b></td>
+                            <td>{{ .Kosten | safeHTML  }}</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>            
+        </div>
+        <div class="sovbb-borders"></div>
+
+    </div>
+    {{ end }}
+    {{ end }}
+    <div class="uk-container uk-container-small">
+        <div class="sovbb-intro">{{ .Params.Intro }}</div>
+        <div class="sovbb-body uk-margin-medium-bottom">
+            {{.Content}}
+        </div>
+        {{ with .Params.Reasons }}
+        <div class="sovbb-reasons">
+            <div>{{ .Intro | markdownify }} …</div>
+            <div class="uk-column-1-2@s">
+                {{ range .Items }}
+                <div class="sovbb-reason">
+                    … {{ . | markdownify }}
+                </div>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+        <div class="sovbb-body uk-margin-medium-top">
+            {{.Params.Closing}}
+        </div>
+    </div>
+    {{ if .Params.Invite }}
+    <div class="uk-container-expand sovbb-invite">
+        
+        <div class="uk-container uk-container-small uk-position-relative">
+            {{ with .Params.Invite }}
+            <h2>{{ .Title }}</h2>
+            <p>{{ .Text | safeHTML }}</p>
+            {{ if .Details }}
+            <dl>
+                {{ range .Details }}
+                <dt>{{ .Key }}</dt>
+                <dd>{{ .Value | safeHTML }}</dd>
+                {{ end }}
+            </dl>
+            {{ end }}
+            {{ end }}
+            <a target="rsvp_form" href="{{ .Params.Links.rsvp.link}}" class="sovbb-button-rsvp">
+                <div>
+                    {{ .Params.Links.rsvp.text }}</div>
+            </a>
+        </div>
+    </div>
+    {{ end }}
+</main>
+{{ end }}
