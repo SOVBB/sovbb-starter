@@ -14,12 +14,17 @@
     <style>
         .sovbb-claim {
             margin-top: 3ex;
-            font-size: 1.5rem;
+            font-size: 1.3rem;
             margin-bottom: 0;
+        }
+        @media (min-width: 640px) {
+            .sovbb-claim,.sovbb-title {
+                font-size: 1.5rem;
+            }
         }
         .sovbb-title {
             margin-top: 0.5ex;
-            font-size: 1.5rem;
+            font-size: 1.3rem;
             color: rgb(227, 6, 19);
         }
         .sovbb-borders {
@@ -37,11 +42,11 @@
         }
     </style>
     <div class="sovbb-event uk-container uk-container-small">
-        <div class="sovbb-claim">{{ .Claim }}</div>
-        <h2 class="sovbb-title">{{ .Title }}</h2>
+        <div class="sovbb-claim">{{ .Claim | safeHTML}}</div>
+        <h2 class="sovbb-title">{{ .Title | safeHTML}}</h2>
         <div class="sovbb-borders"></div>
         <div uk-grid>
-            <div class="uk-width-1-2@s">{{ .Description | markdownify }}</div>
+            <div class="sovbb-body uk-width-1-2@s">{{ .Description | markdownify }}</div>
             <div class="uk-width-1-2@s">
                 <table class="sovbb-event-table">
                     <tbody>
@@ -51,7 +56,7 @@
                         </tr>
                         <tr>
                             <td>Zeit:</td>
-                            <td>{{ .Zeit }}</td>
+                            <td>{{ .Zeit | safeHTML }}</td>
                         </tr>
                         <tr>
                             <td>Ort:</td>
