@@ -21,17 +21,16 @@ Event:
     Claim: 'Frühlingsveranstaltung des&nbsp;SOVBB:'
     Title: Weiterbildungsveranstaltung zu spezifischen Themen im Kindesschutz
     Description: |
-      Professioneller Umgang und pragmatische Ansätze von
-      Beistandspersonen mit Herausforderungen während der Begleitung
-      von Menschen mit Persönlichkeitsstörungen und anderen
-      psychischen Erkrankungen: **Methoden, Ethik und rechtliche Aspekte**
+      - Anhörung von Kindern bei der KaPo Solothurn<br> 
+      - Kinder aus der Klemme - Programm für Familien in hochkonflikthaften Trennungen<br> 
+      - Kindeswohl bei hochstrittigen Eltern, Möglichkeiten und Grenzen der KESB
       
       Dr. med. Benjamin Dubno, ärztlicher Direktor Integrierte Psychiatrie
       Winterthur – Zürcher Unterland
     Datum: Do, 21. März 2024
     Zeit: 10.00–17.00 Uhr inkl. Mittagessen und Pausenverpflegung
     Ort: Hotel Arte<br>Riggenbachstrasse 10<br>4600 Olten
-    Anmeldung: <a href="mailto:info@sovbb.ch">info@sovbb.ch</a> bis 5.11.2023
+    Anmeldung: <a href="mailto:info@sovbb.ch">info@sovbb.ch</a> bis 14.03.2024
     Kosten: CHF 220.00 für SOVBB-Mitglieder CHF&nbsp;250.00 für&nbsp;Nichtmitglieder
 
 ---
