@@ -23,9 +23,11 @@ Event:
     Description: |
      - **Anhörung von Kindern bei der KaPo Solothurn** - 
      Kathrin Walder, Fallverantwortliche Kindsanhörung und Opferhilfe
-     **Kinder im Blick – Ein Kurs für Eltern in Trennung**
+     - **Kinder im Blick – Ein Kurs für Eltern in Trennung** -
      lic.phil. Jana Schmidt vom Zentrum für Begutachtung und Therapie
-     **Kindeswohl bei hochstrittigen Eltern, Möglichkeiten und Grenzen der KESB**
+     - **Kinder aus der Klemme – Programm für Familien in hochkonflikthaften Trennungen** -
+     Dr. Phil Louise Vilén, Präsidentin Verein Kinder aus der Klemme
+     - **Kindeswohl bei hochstrittigen Eltern, Möglichkeiten und Grenzen der KESB** -
      Stefan Armenti, Präsident KESB Region Solothurn
 
       
