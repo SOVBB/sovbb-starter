@@ -18,9 +18,9 @@ Links:
         text: Mitglied werden
         link: https://forms.gle/1vwztX83yZFRewZQA
 Event:
-    Claim: 'Frühlingsveranstaltung des&nbsp;SOVBB:'
+    Claim: 'Frühlingsveranstaltung des&nbsp;SOVBB'
     Title: Weiterbildungsveranstaltung zu spezifischen Themen im Kindesschutz
-  Description: |
+    Description: |
       Professioneller Umgang und pragmatische Ansätze von
       Beistandspersonen mit Herausforderungen während der Begleitung
       
