@@ -20,7 +20,7 @@ Links:
 Event:
     Claim: 'Frühlingsveranstaltung des&nbsp;SOVBB:'
     Title: Weiterbildungsveranstaltung zu spezifischen Themen im Kindesschutz
-    Description: |
+    Description:
 Anhörung von Kindern bei der KaPo Solothurn Kathrin Walder, Fallverantwortliche Kindsanhörung und Opferhilfe<br>
 Kinder aus der Klemme - Programm für Familien in hochkonflikthaften Trennungen<br> 
 Kindeswohl bei hochstrittigen Eltern, Möglichkeiten und Grenzen der KESB
