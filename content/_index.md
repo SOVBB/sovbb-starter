@@ -21,7 +21,7 @@ Event:
     Claim: 'Frühlingsveranstaltung des&nbsp;SOVBB'
     Title: Weiterbildungsveranstaltung zu spezifischen Themen im Kindesschutz
     Description: |
-      Anhörung von Kindern bei der KaPo Solothurn - Kathrin Walder, Fallverantwortliche Kindsanhörung und Opferhilfe
+      **Anhörung von Kindern bei der KaPo Solothurn**<br>Kathrin Walder, Fallverantwortliche Kindsanhörung und Opferhilfe
       Beistandspersonen mit Herausforderungen während der Begleitung
       
     Datum: Do, 21. März 2024
