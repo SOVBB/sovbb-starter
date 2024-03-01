@@ -21,12 +21,11 @@ Event:
     Claim: 'Frühlingsveranstaltung des&nbsp;SOVBB:'
     Title: Weiterbildungsveranstaltung zu spezifischen Themen im Kindesschutz
     Description: |
-      - Anhörung von Kindern bei der KaPo Solothurn<br> 
+      - Anhörung von Kindern bei der KaPo Solothurn<br>
+      Kathrin Walder, Fallverantwortliche Kindsanhörung und Opferhilfe<br>
       - Kinder aus der Klemme - Programm für Familien in hochkonflikthaften Trennungen<br> 
       - Kindeswohl bei hochstrittigen Eltern, Möglichkeiten und Grenzen der KESB
       
-      Dr. med. Benjamin Dubno, ärztlicher Direktor Integrierte Psychiatrie
-      Winterthur – Zürcher Unterland
     Datum: Do, 21. März 2024
     Zeit: 10.00–17.00 Uhr inkl. Mittagessen und Pausenverpflegung
     Ort: Hotel Arte<br>Riggenbachstrasse 10<br>4600 Olten
