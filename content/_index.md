@@ -28,11 +28,11 @@ Event:
       
       Dr. med. Benjamin Dubno, ärztlicher Direktor Integrierte Psychiatrie
       Winterthur – Zürcher Unterland
-    Datum: Di, 21. November 2023
-    Zeit: 13.30–17.00 Uhr mit anschl.&nbsp;Apéro
-    Ort: Jugendherberge Solothurn<br>Landhausquai 23<br>4500 Solothurn
+    Datum: Do, 21. März 2024
+    Zeit: 10.00–17.00 Uhr inkl. Mittagessen und Pausenverpflegung
+    Ort: Hotel Arte<br>Riggenbachstrasse 10<br>4600 Olten
     Anmeldung: <a href="mailto:info@sovbb.ch">info@sovbb.ch</a> bis 5.11.2023
-    Kosten: CHF 120.00 für SOVBB-Mitglieder CHF&nbsp;150.00 für&nbsp;Nichtmitglieder
+    Kosten: CHF 220.00 für SOVBB-Mitglieder CHF&nbsp;250.00 für&nbsp;Nichtmitglieder
 
 ---
 Der Schweizerische Verband der Berufsbeistandspersonen (SVBB) ist verknüpft mit acht
