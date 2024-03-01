@@ -21,10 +21,13 @@ Event:
     Claim: 'Frühlingsveranstaltung des&nbsp;SOVBB'
     Title: Weiterbildungsveranstaltung zu spezifischen Themen im Kindesschutz
     Description: |
-     **Anhörung von Kindern bei der KaPo Solothurn**
+     - **Anhörung von Kindern bei der KaPo Solothurn** - 
      Kathrin Walder, Fallverantwortliche Kindsanhörung und Opferhilfe
      **Kinder im Blick – Ein Kurs für Eltern in Trennung**
-     lic.phil. Jana Schmidt vom Zentrum für Begutachtung und Therapie 
+     lic.phil. Jana Schmidt vom Zentrum für Begutachtung und Therapie
+     **Kindeswohl bei hochstrittigen Eltern, Möglichkeiten und Grenzen der KESB**
+     Stefan Armenti, Präsident KESB Region Solothurn
+
       
     Datum: Do, 21. März 2024
     Zeit: 10.00–17.00 Uhr inkl. Mittagessen und Pausenverpflegung
