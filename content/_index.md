@@ -19,7 +19,7 @@ Links:
         link: https://forms.gle/1vwztX83yZFRewZQA
 Event:
     Claim: 'Frühlingsveranstaltung des&nbsp;SOVBB:'
-    Title: Fehlende Krankheitseinsicht – Zusammenarbeit?
+    Title: Weiterbildungsveranstaltung zu spezifischen Themen im Kindesschutz
     Description: |
       Professioneller Umgang und pragmatische Ansätze von
       Beistandspersonen mit Herausforderungen während der Begleitung
