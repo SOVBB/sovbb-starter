@@ -18,7 +18,7 @@ Links:
         text: Mitglied werden
         link: https://forms.gle/1vwztX83yZFRewZQA
 Event:
-    Claim: '1. Weiterbildungsveranstaltung des&nbsp;SOVBB:'
+    Claim: 'Frühlingsveranstaltung des&nbsp;SOVBB:'
     Title: Fehlende Krankheitseinsicht – Zusammenarbeit?
     Description: |
       Professioneller Umgang und pragmatische Ansätze von
