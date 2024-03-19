@@ -22,7 +22,7 @@ Event:
     Title: Weiterbildungsveranstaltung zu spezifischen Themen im Kindesschutz
     Description: |
      - **Anhörung von Kindern bei der KaPo Solothurn** - 
-     Kathrin Walder, Fallverantwortliche Kindsanhörung und Opferhilfe
+     Kathrin Wandeler, Fachstelle Häusliche Gewalt und Opferermittlungen
      - **Kinder im Blick – Ein Kurs für Eltern in Trennung** -
      lic.phil. Jana Schmidt vom Zentrum für Begutachtung und Therapie
      - **Kinder aus der Klemme – Programm für Familien in hochkonflikthaften Trennungen** -
