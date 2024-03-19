@@ -33,7 +33,7 @@ Event:
       
     Datum: Do, 21. März 2024
     Zeit: 10.00–17.00 Uhr inkl. Mittagessen und Pausenverpflegung
-    Ort: Hotel Arte<br>Riggenbachstrasse 10<br>4600 Olten
+    Ort: ASTORIA – HOTEL, RESTAURANT, BAR, SEMINARE<br>Hübelistrasse 15<br>4600 Olten
     Anmeldung: <a href="mailto:info@sovbb.ch">info@sovbb.ch</a> bis 14.03.2024
     Kosten: CHF 220.00 für SOVBB-Mitglieder CHF&nbsp;250.00 für&nbsp;Nichtmitglieder
 
